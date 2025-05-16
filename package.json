@@ -1,5 +1,5 @@
 {
-  "name": "dv-web3-lib",
+  "name": "@neiluno/web3-lib",
   "version": "1.0.64",
   "description": "Crypto web3 library",
   "main": "dist/index.js",
