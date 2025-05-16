@@ -1,0 +1,29 @@
+{
+  "name": "dv-web3-lib",
+  "version": "1.0.64",
+  "description": "Crypto web3 library",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "ts-node test/index.ts"
+  },
+  "keywords": [
+    "web3",
+    "crypto"
+  ],
+  "homepage": "https://github.com/DavidSparker0417/web3-lib#readme",
+  "author": "DavidSparker",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0",
+    "@types/bignumber.js": "^5.0.0",
+    "@types/node": "^22.3.0",
+    "alchemy-sdk": "^3.5.6",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5",
+    "dv-evm-lib": "^1.0.21",
+    "dv-sol-lib": "^1.1.90",
+    "typescript": "^5.5.4",
+    "web3": "^4.16.0",
+    "web3-validator": "^2.0.6"
+  }
+}
